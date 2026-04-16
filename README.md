@@ -106,13 +106,8 @@ GEMINI_API_KEY=your_key_here
 FAL_API_KEY=your_key_here
 ```
 
-### 4. Run the app
 
-```
-python app.py
-```
 
----
 
 ## 🧪 Usage Modes
 
