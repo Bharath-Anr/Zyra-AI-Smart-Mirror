@@ -61,13 +61,6 @@ Zyra supports a fully voice-driven experience for seamless interaction.
 > The entire pipeline (detection, analysis, recommendation, and UI) is implemented within a single interactive notebook for easy experimentation and demo.
 ---
 
-# 👗 Zyra — AI Smart Mirror for Personalized Outfit Styling
-
-An AI-powered smart mirror that analyzes your outfit using computer vision and recommends better styles based on occasion, skin tone, and cultural context (Indian + Western). It can even generate realistic outfit visualizations.
-
-> 🎙️ Voice-enabled smart assistant with wake word “Zyra” and sleep command “Goodbye”
-
----
 
 ## 🚀 Run the Project
 
