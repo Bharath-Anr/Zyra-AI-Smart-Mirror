@@ -109,7 +109,7 @@ ngrok.set_auth_token("your_ngrok_token_here")
 ## ⚠️ Notes
 
 * API keys are required for full functionality
-* Works best with clear full-body or upper-body images
+* Works best with clear images
 * Designed for experimentation and research purposes
 
 ---
