@@ -1,16 +1,7 @@
-# 👗 Zyra - AI Smart Mirror for Personalized Outfit Styling — Indian & Western Outfit Intelligence
+# 👗 Zyra - AI Smart Mirror for Personalized Outfit Styling
 
 An AI-powered fashion assistant that analyzes your outfit using computer vision and recommends better styles based on occasion, skin tone, and cultural context (Indian + Western). It can even generate realistic outfit visualizations.
 > 🎙️ Voice-enabled smart assistant with wake word “Zyra” and sleep command “Goodbye”
----
-
-## 🚀 Demo
-
-👉 Open directly in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-tOgPkUKPL2_Hu1P9Gv_Qadf8jyOD6gH?usp=sharing)
-
----
 
 ---
 
@@ -53,7 +44,7 @@ Zyra supports a fully voice-driven experience for seamless interaction.
 - 🎧 **Hands-Free Control:** Navigate and interact without using keyboard or mouse  
 - ⚡ **Real-Time Responses:** Get instant styling feedback through voice commands  
 - 🌙 **Sleep Command:** Say **“Goodbye”** to put the assistant back to sleep  
-> Designed to simulate a real smart mirror experience — just walk up and speak.
+> Designed to simulate a real smart mirror — just say “Zyra” and start interacting.
 
 ## 🧠 Tech Stack
 
@@ -67,48 +58,23 @@ Zyra supports a fully voice-driven experience for seamless interaction.
 
 ## 📂 Project Structure
 
-```
-ai-fashion-stylist/
-│── app.py
-│── requirements.txt
-│── README.md
-│── utils/
-│   ├── detection.py
-│   ├── analysis.py
-│   ├── recommendation.py
-│   ├── image_generation.py
-```
+> The entire pipeline (detection, analysis, recommendation, and UI) is implemented within a single interactive notebook for easy experimentation and demo.
+---
+
+## 🚀 Run the Project
+
+This project is designed to run directly in Google Colab — no local setup required.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-tOgPkUKPL2_Hu1P9Gv_Qadf8jyOD6gH?usp=sharing)
 
 ---
 
-## ⚙️ Setup & Run
+### ⚙️ Steps
 
-### 1. Clone the repo
-
-```
-git clone https://github.com/YOUR_USERNAME/ai-fashion-stylist.git
-cd ai-fashion-stylist
-```
-
-### 2. Install dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### 3. Set API keys
-
-Create a `.env` file:
-
-```
-OPENROUTER_API_KEY=your_key_here
-GEMINI_API_KEY=your_key_here
-FAL_API_KEY=your_key_here
-```
-
-
-
-
+1. Open the notebook in Colab  
+2. Paste your API keys in the provided cell  
+3. Run all cells in order  
+4. Start interacting with Zyra 🎙️ 
 ## 🧪 Usage Modes
 
 * **Basic Mode:** Get a full outfit recommendation
@@ -142,6 +108,7 @@ FAL_API_KEY=your_key_here
 * E-commerce integration
 
 ---
+
 
 ## 👤 Author
 
