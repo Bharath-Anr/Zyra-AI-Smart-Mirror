@@ -1,7 +1,7 @@
 # 👗 Zyra - AI Smart Mirror for Personalized Outfit Styling — Indian & Western Outfit Intelligence
 
 An AI-powered fashion assistant that analyzes your outfit using computer vision and recommends better styles based on occasion, skin tone, and cultural context (Indian + Western). It can even generate realistic outfit visualizations.
-
+> 🎙️ Voice-enabled smart assistant with wake word “Zyra” and sleep command “Goodbye”
 ---
 
 ## 🚀 Demo
@@ -44,6 +44,16 @@ An AI-powered fashion assistant that analyzes your outfit using computer vision 
   Flask backend with live camera + ngrok deployment
 
 ---
+
+## 🎙️ Voice-Controlled Smart Interface
+
+Zyra supports a fully voice-driven experience for seamless interaction.
+
+- 🗣️ **Wake Word Activation:** Say **“Zyra”** to activate the assistant  
+- 🎧 **Hands-Free Control:** Navigate and interact without using keyboard or mouse  
+- ⚡ **Real-Time Responses:** Get instant styling feedback through voice commands  
+- 🌙 **Sleep Command:** Say **“Goodbye”** to put the assistant back to sleep  
+> Designed to simulate a real smart mirror experience — just walk up and speak.
 
 ## 🧠 Tech Stack
 
