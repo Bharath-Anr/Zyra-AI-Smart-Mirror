@@ -1,4 +1,4 @@
-# 👗 AI Fashion Stylist — Indian & Western Outfit Intelligence
+# 👗 Zyra - AI Smart Mirror for Personalized Outfit Styling — Indian & Western Outfit Intelligence
 
 An AI-powered fashion assistant that analyzes your outfit using computer vision and recommends better styles based on occasion, skin tone, and cultural context (Indian + Western). It can even generate realistic outfit visualizations.
 
