@@ -61,11 +61,21 @@ Zyra supports a fully voice-driven experience for seamless interaction.
 > The entire pipeline (detection, analysis, recommendation, and UI) is implemented within a single interactive notebook for easy experimentation and demo.
 ---
 
+# 👗 Zyra — AI Smart Mirror for Personalized Outfit Styling
+
+An AI-powered smart mirror that analyzes your outfit using computer vision and recommends better styles based on occasion, skin tone, and cultural context (Indian + Western). It can even generate realistic outfit visualizations.
+
+> 🎙️ Voice-enabled smart assistant with wake word “Zyra” and sleep command “Goodbye”
+
+---
+
 ## 🚀 Run the Project
 
 This project is designed to run directly in Google Colab — no local setup required.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-tOgPkUKPL2_Hu1P9Gv_Qadf8jyOD6gH?usp=sharing)
+
+> The Flask app is automatically launched within the notebook using ngrok for public access.
 
 ---
 
@@ -74,7 +84,17 @@ This project is designed to run directly in Google Colab — no local setup requ
 1. Open the notebook in Colab  
 2. Paste your API keys in the provided cell  
 3. Run all cells in order  
-4. Start interacting with Zyra 🎙️ 
+4. Start interacting with Zyra 🎙️  
+
+---
+
+### 🔗 Ngrok Setup (for Web Interface)
+
+If you want to use the live camera web interface, set your ngrok auth token:
+
+from pyngrok import ngrok
+ngrok.set_auth_token("your_ngrok_token_here")
+
 ## 🧪 Usage Modes
 
 * **Basic Mode:** Get a full outfit recommendation
