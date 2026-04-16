@@ -7,7 +7,10 @@ An AI-powered fashion assistant that analyzes your outfit using computer vision 
 ## 🚀 Demo
 
 👉 Open directly in Google Colab:
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1-tOgPkUKPL2_Hu1P9Gv_Qadf8jyOD6gH?usp=sharing))](YOUR_COLAB_LINK_HERE)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-tOgPkUKPL2_Hu1P9Gv_Qadf8jyOD6gH?usp=sharing)
+
+---
 
 ---
 
