@@ -84,6 +84,7 @@ This project is designed to run directly in Google Colab — no local setup requ
 ### 🔗 Ngrok Setup (for Web Interface)
 
 If you want to use the live camera web interface, set your ngrok auth token:
+Create an ngrok account and paste your token when prompted.
 
 from pyngrok import ngrok
 ngrok.set_auth_token("your_ngrok_token_here")
